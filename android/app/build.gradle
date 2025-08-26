@@ -1,0 +1,16 @@
+signingConfigs {
+    release {
+        keyAlias 'jarviskey'
+        keyPassword 'Uf5@f@#s2tD=PIRRCEgnmYWRZ@P6'
+        storeFile file('jarvis.keystore')
+        storePassword '3H=dnrlp+Iv2hxFVY^j@0HaWpxwF'
+    }
+}
+
+buildTypes {
+    release {
+        signingConfig signingConfigs.release
+        shrinkResources false
+        minifyEnabled false
+    }
+}
