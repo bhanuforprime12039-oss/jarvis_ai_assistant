@@ -1,0 +1,3 @@
+alias=jarviskey
+storePassword=3H=dnrlp+Iv2hxFVY^j@0HaWpxwF
+keyPassword=Uf5@f@#s2tD=PIRRCEgnmYWRZ@P6

@@ -1,0 +1,15 @@
+name: jarvis_app
+description: A minimal Jarvis Flutter app
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+  speech_to_text: ^6.3.0
+  flutter_tts: ^3.8.3
+  http: ^1.1.0
