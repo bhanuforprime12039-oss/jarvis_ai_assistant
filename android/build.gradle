@@ -1,1 +1,13 @@
-buildscript {...}
+android {
+    namespace "com.example.jarvis_app"
+    compileSdkVersion 34
+
+    defaultConfig {
+        applicationId "com.example.jarvis_app"
+        minSdkVersion 21
+        targetSdkVersion 34
+        versionCode 1
+        versionName "1.0"
+    }
+}
+
